@@ -1,4 +1,4 @@
-# voting-and-stacking-ensemble
+# Voting and Stacking Ensemble Techniques
 
 There are different types of Ensemble Learning techniques which differ mainly by:
 
